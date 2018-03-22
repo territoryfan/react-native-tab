@@ -73,4 +73,4 @@ export default class App extends Component {
 }
 ```
 ### Examples
-![image](https://github.com/territoryfan/react-native-tab/screenshots/Mtab.gif)
+![](./screenshots/Mtab.gif)
